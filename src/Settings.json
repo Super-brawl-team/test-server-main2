@@ -1,6 +1,6 @@
 {
-	"Address": "192.168.0.47",
-	"Port": 9339,
+	"Address": "ssh.surf",
+	"Port": 9423,
 
 	"StartingGold": 999999,
 	"StartingElixir": 999999,
